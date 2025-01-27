@@ -1,2 +1,4 @@
 # Data-Processing-using-Google-Cloud-Platform
 MapReduce Job for Data Processing on Google Cloud Platform
+
+This document outlines the process of creating clusters and executing MapReduce tasks using Google Cloud Platform (GCP) and Hadoop Streaming Service. It begins with cluster creation, detailing the setup and configuration required for processing data. In Task A, the focus is on running Mapper and Reducer code on the Name Node within GCP, explaining the steps and code execution process. Task B presents the results of executing the Mapper and Reducer on the Name Node. Task C shifts to the Hadoop Streaming Service, where the Mapper and Reducer code is executed using streaming capabilities. Finally, Task D showcases the results obtained from the Hadoop Streaming Service execution. The document provides a comparative analysis of performance and outcomes across both platforms.
